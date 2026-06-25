@@ -11,3 +11,18 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 Amarillo
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Quedo el de BETA
+
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, beta y gamma.
+F- ¿Qué problemas surgieron?
+A beta y gamma no le permitio hacer push. ya que antes habia que hacer commit y resolver a mano
+el conflicto entre ambos cambios. Es decir, combinar las respuestas en el bloc de notas.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Habia que hacer commit y resolver a mano el conflicto entre ambos cambios. Es decir, combinar las respuestas en el bloc de notas.
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Push -f borraria los cambios previos y lo hubiera reemplazado por el actual. Entonces solo queda el ultimo <p>
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Hay que agregar los <p> en orden y respetando los pasos: git add ., git commit -m "", git pull origin testing" para que salte el conflicto y ahi poder editar a mano los cambios, luego git add index.html, git commit -m "" y por ultimo el push.
