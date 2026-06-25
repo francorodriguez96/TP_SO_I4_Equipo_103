@@ -1,0 +1,13 @@
+Nombre y Apellido:
+Dan Ortu
+Patricia Martinez
+Franco Rodriguez Cristiano
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Amarillo
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Amarillo
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedo el de BETA
